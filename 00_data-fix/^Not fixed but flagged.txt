@@ -1,0 +1,29 @@
+#1 
+All exotic species are also classified as Hardwood even if they are Softwood.
+
+#2
+Three species names are not part of the species list.
+Hardwood - Corylus cornuta
+LEDU GRO
+LONI CAN
+
+#3
+all_gp_woody_debris_header_fix.csv file has two site with apparently wrong years.
+Those are
+nfi_plot 1080471 with transect 2 of meas_num 1 done in 2009 while transect 1 done on 2013.
+nfi_plot 696121 with transect 2 of mean_num 0 done in 2001 while transect 1, 3 and 4 were done in 2004. It seems that number 4 was mistaken by number 1.
+
+#4
+all_gp_soil_for_floor.csv
+471 samples have zero as values on meas_num == 0 with only 4 being non-zero. Data Dictionary describes zeros as real values for this variable. Further the dictionary describes that a value of -7 indicates that data was not requisitioned and is only valid for samples collected before August 1st 2007. I am finding implausible that 471 sample (out of 475) are zero
+
+Only one site has non-zero values (1232251)
+125 sites have multiple samples with zero values.
+
+#5
+all_gp_soil_org_sample.csv
+There are 40 cases in which layer_cc_total is calculated but the precursor values for the precursor variable layer_cc_8mm is missing. layer_cc_total uses layer_cc_8mm in it's calculations. 
+
+#5
+all_gp_soil_mineral.csv
+Similar issue as described above but not quantified.

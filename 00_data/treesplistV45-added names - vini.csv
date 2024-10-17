@@ -1,0 +1,313 @@
+NAT_EXO,GROUP,SCIENTIFIC_NAME,CODE_GENU,CODE_SPEC,CODE_VARI,CODE_FORM,COMMON_EN,COMMON_FR
+NATIVE,Softwood,Abies amabilis,ABIE,AMA,,,amabilis fir,sapin gracieux
+NATIVE,Softwood,Abies balsamea,ABIE,BAL,,,balsam fir,sapin baumier
+NATIVE,Softwood,Abies bifolia,ABIE,BIF,,,Rocky Mountain alpine fir,sapin bifolié
+NATIVE,Softwood,Abies grandis,ABIE,GRA,,,grand fir,sapin grandissime
+NATIVE,Softwood,Abies lasiocarpa,ABIE,LAS,,,subalpine fir,sapin subalpin
+NATIVE,Softwood,Abies spp.,ABIE,SPP,,,unidentified fir,sapin non identifié
+NATIVE,Softwood,Chamaecyparis nootkatensis,CHAM,NOO,,,yellow-cedar,chamaecyparis jaune
+NATIVE,Softwood,Chamaecyparis spp.,CHAM,SPP,,,unidentified cypress,"chamaecyparis non
+identifié"
+NATIVE,Softwood,,GENC,SPP,,,unidentified softwood,conifères non identifié
+NATIVE,Softwood,Juniperus scopulorum,JUNI,SCO,,TS,Rocky mountain juniper,genévrier des Rocheuses
+NATIVE,Softwood,Juniperus spp.,JUNI,SPP,,,unidentified juniper,genévrier non identifié
+NATIVE,Softwood,Juniperus virginiana,JUNI,VIR,,TS,Eastern redcedar,genévrier de Virginie
+NATIVE,Softwood,Larix laricina,LARI,LAR,,,Tamarack,mélèze laricin
+NATIVE,Softwood,Larix lyallii,LARI,LYA,,,subalpine larch,mélèze subalpin
+NATIVE,Softwood,Larix occidentalis,LARI,OCC,,,Western larch,mélèze de l'Ouest
+NATIVE,Softwood,Larix spp.,LARI,SPP,,,unidentified larch,mélèze non identifié
+NATIVE,Softwood,Picea engelmannii,PICE,ENG,,,Engelmann spruce,épinette d'Engelmann
+NATIVE,Softwood,Picea engelmannii x glauca,PICE,ENG,GLA,,Engelmann x white,"hybride épinette d'Engelmann et épinette
+blanche"
+NATIVE,Softwood,Picea glauca,PICE,GLA,,,white spruce,épinette blanche
+NATIVE,Softwood,Picea xlutzii,PICE,LUT,X,,Sitka x white,"hybride épinette de Sitka
+et épinette blanche"
+NATIVE,Softwood,Picea mariana,PICE,MAR,,,black spruce,épinette noire
+NATIVE,Softwood,Picea rubens,PICE,RUB,,,red spruce,épinette rouge
+NATIVE,Softwood,Picea sitchensis,PICE,SIT,,,Sitka spruce,épinette de Sitka
+NATIVE,Softwood,Picea sitchensis xunknown,PICE,SIT,X,,Sitka x unidentified,"hybride épinette de Sitka
+et épinette non identifié"
+NATIVE,Softwood,Picea spp.,PICE,SPP,,,unidentified spruce,épinette non identifié
+NATIVE,Softwood,Pinus albicaulis,PINU,ALB,,,whitebark pine,pin à blanche écorce
+NATIVE,Softwood,Pinus banksiana,PINU,BAN,,,jack pine,pin gris
+NATIVE,Softwood,Pinus contorta,PINU,CON,,,lodgepole pine,pin tordu
+NATIVE,Softwood,Pinus contorta var. contorta,PINU,CON,CON,,shore pine,pin tordu
+NATIVE,Softwood,Pinus contorta var. latifolia,PINU,CON,LAT,,lodgepole pine,pin tordu latifolié
+NATIVE,Softwood,Pinus flexilis,PINU,FLE,,,limber pine,pin flexible
+NATIVE,Softwood,Pinus monticola,PINU,MON,,,Western white pine,pin argenté
+NATIVE,Softwood,Pinus xmurraybanksiana,PINU,MUR,,,lodgepole x jack pine,pin tordu x pin gris
+NATIVE,Softwood,Pinus ponderosa,PINU,PON,,,Ponderosa pine,pin ponderosa
+NATIVE,Softwood,Pinus resinosa,PINU,RES,,,red pine,pin rouge
+NATIVE,Softwood,Pinus rigida,PINU,RIG,,,pitch pine,pin rigide
+NATIVE,Softwood,Pinus spp.,PINU,SPP,,,unidentified pine,pin non identifié
+NATIVE,Softwood,Pinus strobus,PINU,STR,,,eastern white pine,pin blanc
+NATIVE,Softwood,Pseudotsuga menziesii,PSEU,MEN,,,Douglas-fir,Douglas vert
+NATIVE,Softwood,"Pseudotsuga menziesii var.
+glauca",PSEU,MEN,GLA,,Interior Douglas-fir,Douglas bleu
+NATIVE,Softwood,Pseudotsuga  menziesii var. menziesii,PSEU,MEN,MEN,,Coastal Douglas-fir,Douglas vert
+NATIVE,Softwood,Taxus brevifolia,TAXU,BRE,,,western yew,if de l'Ouest
+NATIVE,Softwood,Taxus spp.,TAXU,SPP,,,unidentified yew,if non identifié
+NATIVE,Softwood,Thuja occidentalis,THUJ,OCC,,,eastern white-cedar,thuya occidental
+NATIVE,Softwood,Thuja plicata,THUJ,PLI,,,western redcedar,thuya géant
+NATIVE,Softwood,Thuja spp.,THUJ,SPP,,,unidentified thuja,thuja non identifié
+NATIVE,Softwood,Tsuga canadensis,TSUG,CAN,,,eastern hemlock,pruche du Canada
+NATIVE,Softwood,Tsuga heterophylla,TSUG,HET,,,western hemlock,pruche de l'Ouest
+NATIVE,Softwood,Tsuga mertensiana,TSUG,MER,,,mountain hemlock,pruche subalpine
+NATIVE,Softwood,Tsuga mertensiana x heterophylla,TSUG,MER,HET,,mountain x western hemlock hybrid,"hybride pruche
+subalpine et pruche de l'Ouest"
+NATIVE,Softwood,Tsuga spp.,TSUG,SPP,,,unidentified hemlock,pruche non identifié
+NATIVE,Hardwood,Acer circinatum,ACER,CIR,,TS,vine maple,érable circiné
+NATIVE,Hardwood,Acer x freemanii (Acer rubrum × Acer saccharinum),ACER,FRE,,,Freeman maple,érable Autumn Blaze
+NATIVE,Hardwood,Acer glabrum var. douglasii,ACER,GLA,DOU,TS,Douglas maple,érable nain
+NATIVE,Hardwood,Acer macrophyllum,ACER,MAC,,,bigleaf maple,érable à grandes feuilles
+NATIVE,Hardwood,Acer negundo,ACER,NEG,,,Manitoba maple (box- elder),érable négondo (à Giguère)
+NATIVE,Hardwood,Acer nigrum,ACER,NIG,,,black maple,érable noir
+NATIVE,Hardwood,Acer pensylvanicum,ACER,PEN,,,striped maple,érable de Pennsylvanie
+NATIVE,Hardwood,Acer rubrum,ACER,RUB,,,red maple,érable rouge
+NATIVE,Hardwood,Acer saccharinum,ACER,SAC,,,silver maple,érable argenté
+NATIVE,Hardwood,Acer saccharum,ACER,SAH,,,sugar maple,érable à sucre
+NATIVE,Hardwood,"Acer saccharum var.
+saccharum",ACER,SAH,SAC,,sugar maple,érable à sucre
+NATIVE,Hardwood,Acer spicatum,ACER,SPI,,TS,mountain maple,érable à épis
+NATIVE,Hardwood,Acer spp.,ACER,SPP,,,unidentified maple,erable non identifié
+NATIVE,Hardwood,Aesculus glabra,AESC,GLA,,,Ohio buckeye,marronnier glabre
+NATIVE,Hardwood,Alnus incana,ALNU,INC,,TS,gray alder,aulne rugueux
+NATIVE,Hardwood,Alnus incana ssp. rugosa,ALNU,INC,RUG,TS,speckled alder,aulne rugueux
+NATIVE,Hardwood,Alnus incana ssp. tenuifolia,ALNU,INC,TEN,,mountain alder,aulne à feuilles minces
+NATIVE,Hardwood,Alnus rubra,ALNU,RUB,,,red alder,aulne rouge
+NATIVE,Hardwood,Alnus rugosa,ALNU,RUG,,TS,speckled alder,aulne rugueux
+NATIVE,Hardwood,Alnus serrulata,ALNU,SER,,TS,Hazel alder,aulne blanc
+NATIVE,Hardwood,Alnus sinuata,ALNU,SIN,,TS,Sitka alder,aulne de Sitka
+NATIVE,Hardwood,Alnus spp.,ALNU,SPP,,,unidentified alder,aulne non identifié
+NATIVE,Hardwood,Alnus viridis ssp. fruticosa,ALNU,VIR,FRU,TS,Siberian alder,aulne de Sibérie
+NATIVE,Hardwood,Alnus viridis ssp. sinuata,ALNU,VIR,SIN,TS,Sitka alder,aulne de Sitka
+NATIVE,Hardwood,Amelanchier alnifolia,AMEL,ALN,,TS,Saskatoon-berry,"amélanchier à feuilles
+d'aulne"
+NATIVE,Hardwood,Amelanchier arborea,AMEL,ARB,,TS,downy serviceberry,amélanchier aborescent
+NATIVE,Hardwood,Amelanchier bartramiana,AMEL,BAR,,TS,mountain serviceberry,amélanchier de Bartram
+NATIVE,Hardwood,Amelanchier florida,AMEL,FLO,,TS,Pacific serviceberry,amélanchier de l'Ouest
+NATIVE,Hardwood,Amelanchier laevis,AMEL,LAE,,TS,smooth juneberry,amélanchier glabre
+NATIVE,Hardwood,Amelanchier sanguinea,AMEL,SAN,,TS,roundleaf juneberry,amélanchier sanguin
+NATIVE,Hardwood,Amelanchier sanguinea,AMEL,SAN,GAS,TS,Gaspé serviceberry,amélanchier de Gaspésie
+NATIVE,Hardwood,Amelanchier spp.,AMEL,SPP,,,"unidentified
+serviceberry",amélanchier non identifié
+NATIVE,Hardwood,Arbutus menziesii,ARBU,MEN,,,arbutus,arbousier d'Amérique
+NATIVE,Hardwood,Asimina,ASIM,SPP,,,unidentified asimina,asiminier non identifié
+NATIVE,Hardwood,Asimina triloba,ASIM,TRI,,,pawpaw,asiminier trilobé
+NATIVE,Hardwood,Betula alaskana,BETU,ALA,,,Alaska paper birch,bouleau d'Alaska
+NATIVE,Hardwood,Betula alleghaniensis,BETU,ALL,,,yellow birch,bouleau jaune
+NATIVE,Hardwood,Betula xcaerulea,BETU,CAE,,,blueleaf birch,bouleau bleu
+NATIVE,Hardwood,Betula cordifolia,BETU,COR,,,mountain paper birch,bouleau à feuilles cordées
+NATIVE,Hardwood,Betula kenaica,BETU,KEN,,,Kenai birch,bouleau Kenai
+NATIVE,Hardwood,Betula lenta,BETU,LEN,,,cherry birch,bouleau flexible
+NATIVE,Hardwood,Betula neoalaskana,BETU,NEO,,,Alaska paper birch,bouleau d'Alaska
+NATIVE,Hardwood,Betula occidentalis,BETU,OCC,,,water birch,bouleau fontinal
+NATIVE,Hardwood,Betula papyrifera,BETU,PAP,,,white birch,bouleau à papier (blanc)
+NATIVE,Hardwood,Betula papyrifera var. neoalaskana,BETU,PAP,NEO,,Alaska paper birch,bouleau d'Alaska
+NATIVE,Hardwood,Betula papyrifera var. papyrifera,BETU,PAP,PAP,,white birch,bouleau à papier (blanc)
+NATIVE,Hardwood,Betula populifolia,BETU,POP,,,gray birch,bouleau gris
+NATIVE,Hardwood,Betula spp.,BETU,SPP,,,unidentified birch,bouleau non identifié
+NATIVE,Hardwood,Betula xwinteri,BETU,WIN,,,"Alaska x paper birch
+hybrid","x hybride du bouleau de
+l'Alaska"
+NATIVE,Hardwood,Carpinus caroliniana,CARP,CAR,,,blue-beech,charme de Caroline
+NATIVE,Hardwood,Carpinus caroliniana ssp. virginiana,CARP,CAR,VIR,,American hornbeam,charme de la Caroline de Virginie
+NATIVE,Hardwood,Carpinus spp.,CARP,SPP,,,unidentified hornbeam,charme non identifié
+NATIVE,Hardwood,Carya cordiformis,CARY,COR,,,bitternut hickory,caryer cordiforme
+NATIVE,Hardwood,Carya glabra var. odorata,CARY,GLA,ODO,,red hickory,caryer glabre
+NATIVE,Hardwood,Carya liciniosa,CARY,LAC,,,shellbark hickory,caryer lacinié
+NATIVE,Hardwood,Carya ovata,CARY,OVA,,,shagbark hickory,caryer ovale
+NATIVE,Hardwood,Carya ovata var. ovata,CARY,OVA,OVA,,shagbark hickory,caryer ovale
+NATIVE,Hardwood,Carya spp.,CARY,SPP,,,unidentified hickory,caryer non identifié
+NATIVE,Hardwood,Carya tomentosa,CARY,TOM,,,mockernut,caryer blanc
+NATIVE,Hardwood,Castanea dentata,CAST,DEN,,,American chestnut,châtaignier d’Amérique
+NATIVE,Hardwood,Castanea spp.,CAST,SPP,,,unidentified chestnut,châtaignier non identifié
+NATIVE,Hardwood,Celtis occidentalis,CELT,OCC,,,hackberry,micocoulier occidental
+NATIVE,Hardwood,Celtis spp.,CELT,SPP,,,unidentified hackberry,micocoullier non identifié
+NATIVE,Hardwood,Celtis tenuifolia,CELT,TEN,,TS,dwarf hackberry,micocoulier rabougri
+NATIVE,Hardwood,Cephalanthus occidentalis,CEPH,OCC,,TS,button-bush,céphalante occidental
+NATIVE,Hardwood,Cercis canadensis,CERC,CAN,,,redbud,gainier rouge
+NATIVE,Hardwood,Cornus alternifolia,CORN,ALT,,TS,alternate-leaf dogwood,"cornouiller à feuilles
+alternes"
+NATIVE,Hardwood,Cornus florida,CORN,FLO,,TS,eastern flowering dogwood,cornouiller fleuri
+NATIVE,Hardwood,Cornus nuttallii,CORN,NUT,,,Pacific dogwood,cornouiller de Nuttall
+NATIVE,Hardwood,Cornus spp.,CORN,SPP,,,unidentified dogwood,cornouiller non identifié
+NATIVE,Hardwood,Cornus stolonifera,CORN,STO,,TS,redosier dogwood,cornouiller stolonifère
+NATIVE,Hardwood,Crataegus chrysocarpa,CRAT,CHR,,,fireberry hawthorn,aubépine dorée
+NATIVE,Hardwood,Crataegus punctata,CRAT,PUN,,,dotted hawthorn,aubépine ponctuée
+NATIVE,Hardwood,Crataegus spp.,CRAT,SPP,,TS,hawthorn,aubépine
+NATIVE,Hardwood,Elaeagnus commutata,ELAE,COM,,TS,silverberry,chalef argenté
+NATIVE,Hardwood,Euonymus atropurpureus,EUON,ATR,,TS,burning-bush euonymus,fusain pourpre
+NATIVE,Hardwood,Fagus grandifolia,FAGU,GRA,,,American beech,hêtre à grandes feuilles
+NATIVE,Hardwood,Fagus spp.,FAGU,SPP,,,unidentified beech,hêtre non identifié
+NATIVE,Hardwood,Frangula alnus,FRAN,ALN,,,glossy buckthorn,nerprun bourdaine
+NATIVE,Hardwood,Fraxinus americana,FRAX,AME,,,white ash,frêne blanc
+NATIVE,Hardwood,Fraxinus nigra,FRAX,NIG,,,black ash,frêne noir
+NATIVE,Hardwood,Fraxinus pennsylvanica,FRAX,PEN,,,red ash,frêne rouge
+NATIVE,Hardwood,"Fraxinus pennsylvanica var.
+austini",FRAX,PEN,AUS,,northern red ash,frêne d'Austin
+NATIVE,Hardwood,Fraxinus pennsylvanica var. subintegerrima,FRAX,PEN,SUB,,green ash,frêne vert
+NATIVE,Hardwood,Fraxinus quadrangulata,FRAX,QUA,,,blue ash,frêne anguleux
+NATIVE,Hardwood,Fraxinus spp.,FRAX,SPP,,,unidentified ash,frêne non identifié
+NATIVE,Hardwood,,GENH,SPP,,,unidentified hardwood,feuillus non identifié
+NATIVE,Hardwood,Gleditsia triacanthos,GLED,TRI,,,honey-locust,févier épineux
+NATIVE,Hardwood,Gymnocladus dioicus,GYMN,DIO,,,Kentucky coffetree,chicot févier
+NATIVE,Hardwood,Hamamelis virginiana,HAMA,VIR,,TS,witch-hazel,hamamélis de Virginie
+NATIVE,Hardwood,Ilex spp.,ILEX,SPP,,TS,unidentified holly,houx non identifié
+NATIVE,Hardwood,Ilex mucronata,ILEX,MUC,,TS,mountain holly,faux houx
+NATIVE,Hardwood,Ilex verticillata,ILEX,VER,,TS,common winterberry,houx verticillé
+NATIVE,Hardwood,Juglans cinerea,JUGL,CIN,,,butternut,noyer cendré
+NATIVE,Hardwood,Juglans nigra,JUGL,NIG,,,black walnut,noyer noir
+NATIVE,Hardwood,Juglans spp.,JUGL,SPP,,,unidentified walnut,noyer non identifié
+NATIVE,Hardwood,Liriodendron spp.,LIRI,SPP,,,unidentified liriodendron,tulipier de Virginie
+NATIVE,Hardwood,Liriodendron tulipifera,LIRI,TUL,,,tulip-tree,tulipier de Virginie
+NATIVE,Hardwood,Magnolia acuminata,MAGN,ACU,,,cucumber-tree,magnolia acuminé
+NATIVE,Hardwood,Malus coronaria,MALU,COR,,,wild crab apple,pommier odorant
+NATIVE,Hardwood,Malus fusca,MALU,FUS,,,Pacific crab apple,pommier du Pacifique
+NATIVE,Hardwood,Malus spp.,MALU,SPP,,,unidentified apple,pommier non identifié
+NATIVE,Hardwood,Morus rubra,MORU,RUB,,,red mulberry,mûrier rouge
+NATIVE,Hardwood,Myrica californica,MYRI,CAL,,TS,Pacific bayberry,myrique du Pacifique
+NATIVE,Hardwood,Nemopanthus mucronatus,NEMO,MUC,,TS,mountain-holly,némopanthe mucroné
+NATIVE,Hardwood,Nemopanthus spp.,NEMO,SPP,,TS,unidentified nemopanthus,Némopanthe mucroné
+NATIVE,Hardwood,Nyssa spp.,NYSS,SPP,,,tupelo,nyssa
+NATIVE,Hardwood,Nyssa sylvatica,NYSS,SYL,,,black-gum,nyssa sylvestre
+NATIVE,Hardwood,Ostrya spp.,OSTR,SPP,,,"unidentified hop-
+hornbeam",ostryer non identifié
+NATIVE,Hardwood,Ostrya virginiana,OSTR,VIR,,,ironwood (hop- hornbeam),ostryer de Virginie
+NATIVE,Hardwood,Platanus occidentalis,PLAT,OCC,,,sycamore,platane occidental
+NATIVE,Hardwood,Platanus spp.,PLAT,SPP,,,unidentified sycamore,platane non identifié
+NATIVE,Hardwood,Populus angustifolia,POPU,AGU,,,narrowleaf cottonwood,peuplier à feuilles étroites
+NATIVE,Hardwood,Populus balsamifera,POPU,BAL,,,balsam poplar,peuplier baumier
+NATIVE,Hardwood,Populus balsamifera ssp balsamifera,POPU,BAL,BAL,,balsam poplar,peuplier baumier
+NATIVE,Hardwood,Populus deltoides,POPU,DEL,,,eastern cottonwood,peuplier deltoïde
+NATIVE,Hardwood,Populus deltoides ssp. deltoides,POPU,DEL,DEL,,eastern cottonwood,peuplier deltoïde
+NATIVE,Hardwood,Populus deltoides ssp. monilifera,POPU,DEL,MON,,southern (or plains) cottonwood,peuplier deltoïde de l'Ouest
+NATIVE,Hardwood,Populus grandidentata,POPU,GRA,,,largetooth aspen,peuplier à grandes dents
+NATIVE,Hardwood,Populus xjackii,POPU,JAC,,,Jack's hybrid poplar,peuplier hybride de Jack
+NATIVE,Hardwood,Populus spp.,POPU,SPP,,,hybrid poplars,peuplier non identifié
+NATIVE,Hardwood,Populus spp.,POPU,SPP,,,unidentified poplar,peuplier non identifié
+NATIVE,Hardwood,Populus tremuloides,POPU,TRE,,,trembling aspen,peuplier faux-tremble
+NATIVE,Hardwood,Populus trichocarpa,POPU,TRI,,,black cottonwood,peuplier de l'Ouest
+NATIVE,Hardwood,Prunus emarginata,PRUN,EMA,,,bitter cherry,cerisier amer
+NATIVE,Hardwood,Prunus nigra,PRUN,NIG,,,Canada plum,prunier noir
+NATIVE,Hardwood,Prunus pensylvanica,PRUN,PEN,,,pin cherry,cerisier de Pennsylvanie
+NATIVE,Hardwood,Prunus serotina,PRUN,SER,,,black cherry,cerisier tardif
+NATIVE,Hardwood,Prunus spp.,PRUN,SPP,,,unidentified cherry,prunier non identifié
+NATIVE,Hardwood,Prunus virginiana,PRUN,VIR,,TS,choke cherry,cerisier de Virginie
+NATIVE,Hardwood,Prunus virginiana var. virginiana,PRUN,VIR,VIR,TS,choke cherry,cerisier de Virginie
+NATIVE,Hardwood,Ptelea trifoliata,PTEL,TRI,,,common hoptree,ptéléa trifolié
+NATIVE,Hardwood,Quercus alba,QUER,ALB,,,white oak,chêne blanc
+NATIVE,Hardwood,Quercus bicolor,QUER,BIC,,,swamp white oak,chêne bicolore
+NATIVE,Hardwood,Quercus ellipsoidalis,QUER,ELL,,,northern pin oak,chêne ellipsoïdal
+NATIVE,Hardwood,Quercus garryana,QUER,GAR,,,Garry oak,chêne de Garry
+NATIVE,Hardwood,Quercus macrocarpa,QUER,MAC,,,bur oak,chêne à gros fruits
+NATIVE,Hardwood,Quercus muehlenbergii,QUER,MUE,,,Chinquapin oak,chêne jaune
+NATIVE,Hardwood,Quercus palustris,QUER,PAL,,,pin oak,chêne des marais
+NATIVE,Hardwood,Quercus prinoides,QUER,PRI,,TS,dwarf Chinquapin oak,chêne nain
+NATIVE,Hardwood,Quercus rubra,QUER,RUB,,,red oak,chêne rouge
+NATIVE,Hardwood,Quercus shumardii,QUER,SHU,,,Shumard oak,chêne de Shumard
+NATIVE,Hardwood,Quercus spp.,QUER,SPP,,,unidentified oak,chêne non identifié
+NATIVE,Hardwood,Quercus velutina,QUER,VEL,,,black oak,chêne noir
+NATIVE,Hardwood,Rhamnus frangula,RHAM,FRA,,,glossy buckthorn,nerprun bourdaine
+NATIVE,Hardwood,Rhamnus purshiana,RHAM,PUR,,,cascara buckthorn,nerprun cascara
+NATIVE,Hardwood,Rhamnus purshiana,RHAM,CAT,,,European buckthorn,Nerprun cathartique
+NATIVE,Hardwood,Rhamnus spp.,RHAM,SPP,,,unidentified buckthorn,nerprun non identifié
+NATIVE,Hardwood,Rhus spp.,RHUS,SPP,,TS,unidentified sumac,sumac non identifié
+NATIVE,Hardwood,Rhus typhina,RHUS,TYP,,TS,staghorn sumac,sumac vinaigrier
+NATIVE,Hardwood,Robinia pseudoacacia,ROBI,PSE,,,black locust,robinier faux-acacia
+NATIVE,Hardwood,Robinia spp.,ROBI,SPP,,,unidentified robinia,robinier non identifié
+NATIVE,Hardwood,Salix amygdaloides,SALI,AMY,,,peachleaf willow,saule à feuilles de pêcher
+NATIVE,Hardwood,Salix bebbiana,SALI,BEB,,TS,Bebb willow,saule de Bebb
+NATIVE,Hardwood,Salix discolor,SALI,DIS,,TS,pussy willow,saule discolore
+NATIVE,Hardwood,Salix humboldtiana,SALI,HUM,,,Humboldt's willow,
+NATIVE,Hardwood,Salix lucida,SALI,LUC,,TS,shining willow,saule brillant
+NATIVE,Hardwood,Salix lucida ssp. lasiandra,SALI,LUC,LAS,TS,Pacific willow,saule du Pacifique
+NATIVE,Hardwood,Salix lucida ssp. lucida,SALI,LUC,LUC,TS,shining willow,saule brillant
+NATIVE,Hardwood,Salix maccalliana,SALI,MAC,,,McCalla's willow,
+NATIVE,Hardwood,Salix nigra,SALI,NIG,,,black willow,saule noir
+NATIVE,Hardwood,Salix planifolia,SALI,PLA,,,planeleaf willow,
+NATIVE,Hardwood,Salix pyrifolia,SALI,PYR,,TS,Balsam willow,saule baumier
+NATIVE,Hardwood,Salix scouleriana,SALI,SCO,,TS,Scouler willow,saule de Scouler
+NATIVE,Hardwood,Salix sitchensis,SALI,SIT,,TS,Sitka willow,saule de Sitka
+NATIVE,Hardwood,Salix spp.,SALI,SPP,,TS,unidentified willow,saule non identifié
+NATIVE,Hardwood,Sambucus callicarpa,SAMB,CAL,,TS,red-berry elder,"sureau rouge du
+Pacifique"
+NATIVE,Hardwood,Sambucus canadensis,SAMB,CAN,,TS,american elder,sureau blanc
+NATIVE,Hardwood,Sambucus cerulea,SAMB,CER,,TS,blue-berry elder,sureau bleu
+NATIVE,Hardwood,Sambucus racemosa,SAMB,RAC,,TS,red elderberry,sureau rouge
+NATIVE,Hardwood,Sassafras albidum,SASS,ALB,,,Sassafras,sassafras officinale
+NATIVE,Hardwood,Sassafras,SASS,SPP,,,unidentified sassafras,sassafras non identifié
+NATIVE,Hardwood,Shepherdia argentea,SHEP,ARG,,TS,silver buffalo-berry,shépherdie argentée
+NATIVE,Hardwood,Sorbus americana,SORB,AME,,TS,American mountain-ash,sorbier d'Amérique
+NATIVE,Hardwood,Sorbus decora,SORB,DEC,,,showy mountain-ash,sorbier des montagnes
+NATIVE,Hardwood,Sorbus spp.,SORB,SPP,,,mountain-ash,sorbier
+NATIVE,Hardwood,Tilia americana,TILI,AME,,,Basswood,tilleul d'Amérique
+NATIVE,Hardwood,Tilia spp.,TILI,SPP,,,unidentified linden,tilleul non identifié
+NATIVE,Hardwood,Toxicodendron vernix,TOXI,VER,,TS,poison-sumac,sumac à vernis
+NATIVE,Hardwood,Ulmus americana,ULMU,AME,,,white elm,orme d'Amérique
+NATIVE,Hardwood,Ulmus rubra,ULMU,RUB,,,red elm,orme rouge
+NATIVE,Hardwood,Ulmus spp.,ULMU,SPP,,,unidentified elm,orme non identifié
+NATIVE,Hardwood,Ulmus thomasii,ULMU,THO,,,rock elm,orme liège
+NATIVE,Hardwood,Viburnum lentago,VIBU,LEN,,TS,Nannyberry,viorne flexible
+NATIVE,Hardwood,Viburnum spp.,VIBU,SPP,,TS,Viburnum,viorne
+NATIVE,Hardwood,Zanthoxylum americanum,ZANT,AME,,TS,common prickly-ash,clavalier d'Amérique
+EXOTIC,Hardwood,Abies concolor,ABIE,CON,,,white fir,sapin argenté
+EXOTIC,Hardwood,Abies magnifica,ABIE,MAG,,,red fir,sapin rouge
+EXOTIC,Hardwood,Abies magnifica var. shastensis,ABIE,MAG,SHA,,Shasta red fir,sapin rouge
+EXOTIC,Hardwood,Abies nordmanniana,ABIE,NOR,,,Nordmann fir,sapin de Nordmann
+EXOTIC,Hardwood,Abies pinsapo,ABIE,PIN,,,Spanish fir,sapin d'Espagne
+EXOTIC,Hardwood,Abies procera,ABIE,PRO,,,noble fir,sapin noble
+EXOTIC,Softwood,Acer ginnala,ACER,GIN,,TS,Amur maple,érable ginnala
+EXOTIC,Softwood,Acer palmatum,ACER,PAL,,TS,Japanese maple,érable palmé
+EXOTIC,Softwood,Acer platanoides,ACER,PLA,,,Norway maple,érable de Norvège
+EXOTIC,Softwood,Acer pseudoplatanus,ACER,PSE,,,sycamore maple,érable sycomore
+EXOTIC,Softwood,Aesculus xcarnea,AESC,CAR,,,red horsechestnut,marronnier rouge
+EXOTIC,Softwood,Aesculus hippocastanum,AESC,HIP,,,horsechestnut,marronier d'Inde
+EXOTIC,Softwood,Ailanthus altissima,AILA,ALT,,,ailanthus,ailante glanduleux
+EXOTIC,Softwood,Alnus glutinosa,ALNU,GLU,,,European black alder,aulne glutineux
+EXOTIC,Softwood,Aralia elata,ARAL,ELA,,,Japanese angelica-tree,angélique du Japon
+EXOTIC,Hardwood,Araucaria araucana,ARAU,ARA,,,monkey puzzle,araucaria du Chili
+EXOTIC,Softwood,Betula pendula,BETU,PEN,,,European white birch,bouleau verruqueux
+EXOTIC,Softwood,Betula pubescens,BETU,PUB,,,silver (downy) birch,bouleau pubescent
+EXOTIC,Hardwood,Calocedrus decurrens,CALO,DEC,,,incense cedar,cèdre à encens
+EXOTIC,Softwood,Caragana arborescens,CARA,ARB,,TS,Siberian pea-tree,caragana arborescent
+EXOTIC,Softwood,Castanea mollissima,CAST,MOL,,,Chinese chestnut,châtaignier de Chine
+EXOTIC,Softwood,Catalpa bignonioides,CATA,BIG,,,southern catalpa,catalpa commun
+EXOTIC,Softwood,Catalpa speciosa,CATA,SPE,,,northern catalpa,catalpa à feuilles cordées
+EXOTIC,Hardwood,Cedrus atlantica,CEDR,ATL,,,Atlas cedar,cèdre de l'Atlas
+EXOTIC,Hardwood,Cedrus deodara,CEDR,DEO,,,Deodar cedar,cèdre de l'Himalaya
+EXOTIC,Hardwood,Cedrus libani,CEDR,LIB,,,Cedar-of-Lebanon,cèdre du Liban
+EXOTIC,Softwood,Cercidiphyllum japonicum,CERC,JAP,,,Katsura-tree,cercidiphyllum du Japon
+EXOTIC,Hardwood,Chamaecyparis lawsoniana,CHAM,LAW,,,Port-Orford-cedar,"chamaecyparis de
+Lawson"
+EXOTIC,Hardwood,Chamaecyparis obtusa,CHAM,OBT,,,Hinoki-cypress,chamaecyparis du Japon
+EXOTIC,Hardwood,Chamaecyparis pisifera,CHAM,PIS,,,Sawara-cypress,chamaecyparis de Sawara
+EXOTIC,Softwood,Cladrastis lutea,CLAD,LUT,,,Yellow-wood,virgilier à bois jaune
+EXOTIC,Softwood,Cornus kousa,CORN,KOU,,,Kousa dogwood,cornouiller de Kousa
+EXOTIC,Softwood,Cornus mas,CORN,MAS,,,Cornelian cherry,cornouiller mâle
+EXOTIC,Softwood,Fagus sylvatica,FAGU,SYL,,,European beech,hêtre commun
+EXOTIC,Softwood,Fraxinus latifolia,FRAX,LAT,,,Oregon ash,frêne de l'Orégon
+EXOTIC,Hardwood,,GENX,SPP,,,unidentified exotic,les espèces exotiques non identifié
+EXOTIC,Softwood,Ginkgo biloba,GINK,BIL,,,Ginkgo,ginkgo bilobé
+EXOTIC,Hardwood,Larix decidua,LARI,DEC,,,European larch,mélèze d'Europe
+EXOTIC,Hardwood,Larix kaempferi,LARI,KAE,,,Japanese larch,mélèze du Japon
+EXOTIC,Hardwood,Larix sibirica,LARI,SIB,,,Siberian larch,mélèze de Sibérie
+EXOTIC,Hardwood,Picea abies,PICE,ABI,,,Norway spruce,épicéa commun
+EXOTIC,Hardwood,Picea pungens,PICE,PUN,,,Colorado spruce,épinette du Colorado
+EXOTIC,Hardwood,Pinus lambertiana,PINU,LAM,,,sugar pine,pin à sucre
+EXOTIC,Hardwood,Pinus nigra,PINU,NIG,,,Austrian pine,pin noir d'Autriche
+EXOTIC,Hardwood,Pinus radiata,PINU,RAD,,,Monterey pine,pin de Monterey
+EXOTIC,Hardwood,Pinus sylvestris,PINU,SYL,,,Scots pine,pin sylvestre
+EXOTIC,Softwood,Populus alba,POPU,ALB,,,European white poplar,peuplier blanc
+EXOTIC,Softwood,Populus nigra,POPU,NIG,,,Lombardy poplar,peuplier noir d'Italie
+EXOTIC,Softwood,Prunus avium,PRUN,AVI,,,sweet cherry,cerisier sauvage
+EXOTIC,Softwood,Pyrus communis,PYRU,COM,,,common pear,poirier commun
+EXOTIC,Hardwood,Quercus robur,QUER,ROB,,,English oak,chêne pédonculé
+EXOTIC,Softwood,Salix alba var. vitellina,SALI,ALB,VIT,,Weeping willow,saule pleureur doré
+EXOTIC,Hardwood,Sequoiadendron giganteum,SEQU,GIG,,,giant sequoia,séquoia géant
+EXOTIC,Hardwood,Sequoia sempervirens,SEQU,SEM,,,coast redwood,séquoia toujours vert
+EXOTIC,Softwood,Sorbus aucuparia,SORB,AUC,,,European mountain-ash,sorbier des oiseleurs
+EXOTIC,Softwood,Syringa vulgaris,SYRI,VUL,,TS,Common lilac,lilas commun
+EXOTIC,Hardwood,Taxus baccata,TAXU,BAC,,,English yew,if commun
+EXOTIC,Softwood,Ulmus pumila,ULMU,PUM,,,Siberian elm,orme de Sibérie
+EXOTIC,Softwood,Viburnum opulus,VIBU,OPU,,TS,European cranberry viburnum,viorne obier
